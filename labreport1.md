@@ -20,6 +20,8 @@ Now that you have your account, you can try to access a remote computer. Open a 
 
 # Trying some commands
 
-Finally, lets practice running some commands, both on your computer and the remote computer. Use what you learned from lecture and how to navigate files to try and move around directories. Some commands you can try using are cd, ls, or pwd. Remember, that if the terminal does not say anything, then your command was likely succesful! On the other hand, if something went wrong or an error occurred, the terminal will print out the error. Below, I attached a screenshot of a succesful cd command in which I changed my current directory to *donwloads*. Notice that it did not print anything so the command was succesful. 
+Finally, lets practice running some commands, both on your computer and the remote computer. Use what you learned from lecture and how to navigate files to try and move around directories. Some commands you can try using are cd, ls, or pwd. Remember, that if the terminal does not say anything, then your command was likely succesful! On the other hand, if something went wrong or an error occurred, the terminal will print out the error. Below, I attached a screenshot of a succesful cd command in which I changed my current directory to *donwloads*. Notice that it did not print anything so the command was succesful. You can also try running commands on the remote computer such as cat /home/linux/ieng6/cs15lwi23/public/hello.txt. I attached a screenshot of this command as well as well as the output that it produces. 
 
 ![Commands image](images/commands.png)
+![Remote Commands image](images/remoteCommands.png)
+
