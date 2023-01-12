@@ -8,7 +8,7 @@ I did not follow this step exactly as I already had VSCode installed on my compu
 
 A screenshot is attached below regarding what this website looks like. 
 
-![VSCode Image](cse15l-lab-reports/images/vscode.png)
+![VSCode Image](images/vscode.png)
 
 # Remotely connecting
 
@@ -51,4 +51,4 @@ a screenshot of a succesful cd command in which I changed my current directory t
 
 was succesful. 
 
-![VSCode Image](cse15l-lab-reports/images/commands.png)
+![Commands image](images/commands.png)
