@@ -8,6 +8,8 @@ I did not follow this step exactly as I already had VSCode installed on my compu
 
 A screenshot is attached below regarding what this website looks like. 
 
+![VSCode Image](cse15l-lab-reports/images/vscode.png)
+
 # Remotely connecting
 
 **Setting up your course specific account**
@@ -48,3 +50,5 @@ command was likely succesful! On the other hand, if something went wrong or an e
 a screenshot of a succesful cd command in which I changed my current directory to *donwloads*. Notice that it did not print anything so the command 
 
 was succesful. 
+
+![VSCode Image](cse15l-lab-reports/images/commands.png)
