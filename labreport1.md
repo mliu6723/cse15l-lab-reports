@@ -12,7 +12,8 @@ The first step to take is to install VSCode, this can be done by visiting the [V
 
 The next step can be a bit tricky and involves remotely connecting to a computer in the CSE basement. Firstly, install git for your computer. I did not follow this step exactly because I already had git installed on my computer. 
 
-Next, find your course specific account [here](https://sdacs.ucsd.edu/~icc/index.php). 
+Next, find your course specific account [here](https://sdacs.ucsd.edu/~icc/index.php). It should look something like the following.
+![Account Lookup Image](images/accountLookup.png)
 
 After locating your account, follow this [tutorial](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit) in order to reset your password. This process can be difficult, so make sure to read the tutorial carefully. After changing the password, note that it may not update instantly, and you may need to wait 15 minutes to an hour before it updates. 
 
