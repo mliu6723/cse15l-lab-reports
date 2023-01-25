@@ -18,7 +18,7 @@ After locating your account, follow this [tutorial](https://docs.google.com/docu
 
 **Connecting to a remote computer**
 
-Now that you have your account, you can try to access a remote computer. Open a terminal in vscode and type 'ssh YOURACCOUNT@ieng6.ucsd.edu' Make sure to replace YOURACCOUNT with your course specific account. The terminal will then prompt you to confirm if you want to continue connecting so just type yes. Then, it will finally prompt you for your password. If you type the password correctly and it has been succesfully reset, you should see the following message. If it continues to prompt you for the password you either did not reset it properly or typed the wrong password. I suggest you try copy pasting your password just in case you typed it wrong since terminal does not let you see what you are typing. When succesful, it should look something like the screenshot below. 
+Now that you have your account, you can try to access a remote computer. Open a terminal in vscode and type `ssh YOURACCOUNT@ieng6.ucsd.edu` Make sure to replace YOURACCOUNT with your course specific account. The terminal will then prompt you to confirm if you want to continue connecting so just type yes. Then, it will finally prompt you for your password. If you type the password correctly and it has been succesfully reset, you should see the following message. If it continues to prompt you for the password you either did not reset it properly or typed the wrong password. I suggest you try copy pasting your password just in case you typed it wrong since terminal does not let you see what you are typing. When succesful, it should look something like the screenshot below. 
 
 ![Remote Connection image](images/remoteConnection.png)
 
