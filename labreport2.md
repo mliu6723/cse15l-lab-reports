@@ -1,13 +1,18 @@
 # Week 3 Lab Report
 
 # Part 1
-Below is the code for my StringServer
+**Below is the code for my StringServer**
+![Lab 3 Code](images/labThreeCode.png)
 
-Below are the screenshots of using `/add-message`
+**Below are the screenshots of using `/add-message`**
 
-In this first screenshot, firstly the main method is called when the program is run. Then, the handleRequest method is run. For the main method, the primary relevant argument is the input in the terminal, which communicates which port to start the web server on. In this case, it is 4000. For the handleRequest method, there are several important arguments and values. Firstly, there is the method parameter `URI url` which represents the url of the web server that is being run. Second, there is the arraylist of strings named list. This list represents a list of the strings that are being stored on the web server. Finally, there is also a String named display. This string represents what is going to be output to the web server. It represents all the strings in the arraylist list with line breaks between each element. From this specific request, the String arraylist list is changed because a new element is added to it, "hello". The String display is also changed to "hello \n" because list was changed. 
+![First Run](images/firstRun.png)
 
-In this second screenshot, firstly the main method is called when the program is run. Then, the handleRequest method method is run. For the main method, the primary relevant argument is the input in the terminal, which communicates which port to start the web server on. In this case, it is 4000. For the handleRequest method, there are several important arguments and values. Firstly, there is the method parameter `URI url` which represents the url of the web server that is being run. Second, there is the arraylist of strings named list. This list represents a list of the strings that are being stored on the web server. Finally, there is also a String named display. This string represents what is going to be output to the web server. It represents all the strings in the arraylist list with line breaks between each element. From this specific request, the String arraylist list is changed because a new element is added to it, "How are you". The String display is also changed to "hello \n How are you \n" because list was changed. 
+In this first screenshot, firstly the main method is called when the program is run. Then, the `handleRequest` method is run. For the main method, the primary relevant argument is the input in the terminal, which communicates which port to start the web server on. In this case, it is 4000. For the `handleRequest method`, there are several important arguments and values. Firstly, there is the method parameter `URI url` which represents the url of the web server that is being run. Second, there is the `ArrayList<String> list`. This list represents a list of the strings that are being stored on the web server. Finally, there is also `String display`. This string represents what is going to be output to the web server. It represents all the strings in the arraylist list with line breaks between each element. From this specific request, the String arraylist list is changed because a new element is added to it, "hello". The String display is also changed to "hello \n" because list was changed. 
+
+![Second Run](images/secondRun.png)
+
+In this second screenshot, firstly the main method is called when the program is run. Then, the `handleRequest method` method is run. For the main method, the primary relevant argument is the input in the terminal, which communicates which port to start the web server on. In this case, it is 4000. For the `handleRequest` method, there are several important arguments and values. Firstly, there is the method parameter `URI url` which represents the url of the web server that is being run. Second, there is `ArrayList<String> list`. This list represents a list of the strings that are being stored on the web server. Finally, there is also `String display`. This string represents what is going to be output to the web server. It represents all the strings in the arraylist list with line breaks between each element. From this specific request, the String arraylist list is changed because a new element is added to it, "How are you". The String display is also changed to "hello \n How are you \n" because list was changed. 
 
 # Part 2
 Failure-inducing input for `averageWithoutLowest` :  
@@ -28,6 +33,7 @@ Input that doesn't induce a failure for `averageWithoutLowest`
  ```
 
 Symptom as output of running tests: 
+![Failed Tests](images/failedTests.png)
 
 Bug (Before): 
 ```
