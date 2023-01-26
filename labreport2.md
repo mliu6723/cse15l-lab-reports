@@ -86,6 +86,8 @@ static double averageWithoutLowest(double[] arr) {
   }
 ```
 
+This fix fixes the issue because now the program keeps track of everytime the lowest number appears in the array. Using this number, it is able to correctly calculate the number of values to compute the average from. Instead of arr.length-1 which assumes there is only one appearance of the lowest number, it is now arr.length - counter which is equal to arr.length - (number of appearances of lowest number).
+
 # Part 3
 From lab in week 2 and week 3, I learned a lot about web servers, something that I did not know before. I learned specifically how to run a web server from the terminal and how to then access that web server. Furthermore, I learned the basics of constructing a web server in VSCode from scratch. 
 
