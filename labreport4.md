@@ -31,7 +31,7 @@ In this step, I cloned the fork by first going to github and clicking code, then
 # Step 6
 ![Step 6](images/step6.png)
 
-First, I entered into the lab7 directory by typing `cd lab7` and hitting `<enter>`. I then listed the files in the directory by typing `ls` and then hitting `<enter>`. I then went to the course website, clicked weeks, then clicked week 3. I then scrolled down to the commands that I needed and highlighted the compile command and pressed `<cmd c>` to copy it. I then went to the terminal and pressed `<cmd v>` to paste it and then hit `<enter>`. I then went back to the course website and highlighted the run command and pressed `<cmd c>` to copy it. I then went to the terminal and pressed `<cmd v>` to paste it. I then pressed `<delete>` 10 times and then typed "TestListExamples". Finally, I hit `<enter>`. 
+First, I entered into the lab7 directory by typing `cd lab7` and hitting `<enter>`. I then listed the files in the directory by typing `ls` and then hitting `<enter>`. I then went to the course website, clicked weeks, then clicked week 3. I then scrolled down to the commands that I needed and highlighted `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and pressed `<cmd c>` to copy it. I then went to the terminal and pressed `<cmd v>` to paste it and then hit `<enter>`. I then went back to the course website and highlighted `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests` and pressed `<cmd c>` to copy it. I then went to the terminal and pressed `<cmd v>` to paste it. I then pressed `<delete>` 10 times and then typed "TestListExamples". Finally, I hit `<enter>`. 
 
 # Step 7
 ![Step 7](images/step7part1.png)
