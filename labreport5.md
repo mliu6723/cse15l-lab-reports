@@ -1,6 +1,6 @@
 # Lab Report 5
 
-In enjoyed lab report 3 and researching various options to a command so for this lab I will be researching options for the `grep` command
+I enjoyed lab report 3 and researching various options for a command so for this lab I will be researching options for the `grep` command.
 
 # Option 1: `grep -H`
 
